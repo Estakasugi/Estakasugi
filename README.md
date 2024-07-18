@@ -1,7 +1,14 @@
 # 🔭 ES_Takasugi
 
+**`I'm currently working on Block-chain systems, Algorithms, JS-HTML-CSS, and data science`**
 
+I am a committed and team-oriented individual with a self-driven work ethic. Since college, I have utilized my programming 
+skills to build systems that solve problems across various industries. In my spare time, I hone my programming abilities by 
+doing LeetCode exercises and learning new technologies. As a community-oriented individual, I contribute to fostering a 
+better community through active listening, empathizing with others, and providing services. In addition, I maintain a daily 
+habit of physical exercise to ensure the best performance of my attention and energy.
 
+---
 <!--
 **Estakasugi/Estakasugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
