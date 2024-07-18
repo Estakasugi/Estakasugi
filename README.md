@@ -33,6 +33,4 @@ Here are some ideas to get you started:
 
 #
 
-### 📊 Stats
 
-[![Estalasugi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Estaksugi)](https://github.com/Estakasugi/github-readme-stats)
