@@ -32,3 +32,7 @@ Here are some ideas to get you started:
 <br />
 
 #
+
+### 📊 Stats
+
+![ESTakasugi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Estakasugi&show_icons=true&theme=gruvbox)
