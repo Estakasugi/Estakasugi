@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
 <br />
 
-#
+### top 20% LeetCode practitioner
+https://leetcode.com/u/es_takasugi/
 
 
