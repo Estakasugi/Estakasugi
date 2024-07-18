@@ -24,6 +24,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 💬 MY Career GOAL
+I aspire to become an excellent communicator with exceptional programming skills
+
+
+#
+
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -39,9 +46,12 @@ Here are some ideas to get you started:
 
 #
 
----
+
 
 ### 🌱 I'm also a top 20% LeetCode practitioner
 https://leetcode.com/u/es_takasugi/
+
+
+
 
 
