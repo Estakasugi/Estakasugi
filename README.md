@@ -1,6 +1,6 @@
 # 🔭 ES_Takasugi
 
-**`I'm currently building great things on Block-chain systems, Algorithms, JS-HTML-CSS, C#, and data science`**
+**`I'm currently building great things on Block-chain systems, algorithms, JS-HTML-CSS, C#, and data science`**
 
 I am a committed and team-oriented individual with a self-driven work ethic. Since college, I have utilized my programming 
 skills to build systems that solve problems across various industries. In my spare time, I hone my programming abilities by 
