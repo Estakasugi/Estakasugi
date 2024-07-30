@@ -50,10 +50,13 @@ I aspire to become an excellent communicator with exceptional programming skills
 
 
 
-### 🌱 I'm also a top 15% LeetCode practitioner
+### 😄 I'm also a top 15% LeetCode practitioner
 https://leetcode.com/u/es_takasugi/
 
+#
 
 
+### 🌱 My GitHub Account in College
+https://github.com/suoangao
 
-
+#
