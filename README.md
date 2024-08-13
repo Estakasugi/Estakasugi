@@ -50,7 +50,7 @@ I aspire to become an excellent communicator with exceptional programming skills
 
 
 
-### 😄 I'm also a top 15% LeetCode practitioner
+### 😄 I'm also a top 10% LeetCode practitioner
 https://leetcode.com/u/es_takasugi/
 
 #
